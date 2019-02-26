@@ -1,0 +1,3 @@
+Download: Visual C++ Redistributable for Visual Studio 2015
+from :https://www.microsoft.com/en-in/download/confirmation.aspx?id=48145
+Install it in your PC ( for Windows 7 must)
